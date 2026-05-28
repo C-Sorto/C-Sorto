@@ -4,16 +4,15 @@ Systems Engineering student focused on backend development, building real tools 
 
 ## What I work with
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Google Apps Script](https://img.shields.io/badge/Apps%20Script-4285F4?style=flat&logo=google&logoColor=white)
 
 ## What I'm working toward
 
-- Backend development with Python
-- REST APIs & cloud infrastructure (AWS)
+- Backend development with JavaScript & TypeScript
+- REST APIs with Node.js & PostgreSQL
 - Remote work for international companies
 
 ## Featured project
