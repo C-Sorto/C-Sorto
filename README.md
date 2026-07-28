@@ -1,6 +1,6 @@
 # Hi, I'm Christian Sorto
 
-Systems Engineering student based in El Salvador, focused on building practical and reliable solutions for real-world operations.
+Systems Engineering student focused on building practical and reliable solutions for real-world operations.
 
 I enjoy understanding how a process works, turning business needs into clear system requirements, validating edge cases, and improving a solution through real user feedback. My background in electronics and aircraft maintenance has also taught me to work carefully, troubleshoot methodically, and keep learning until I understand how a system behaves.
 
