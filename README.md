@@ -1,40 +1,62 @@
-# Hola, soy Christian Sorto
+# Hi, I'm Christian Sorto
 
-Estudiante de Ingeniería en Sistemas en El Salvador, con graduación estimada en 2029. Estoy preparando mi primera oportunidad profesional en desarrollo junior, QA, análisis de sistemas o soporte TI.
+Systems Engineering student based in El Salvador, focused on building practical and reliable solutions for real-world operations.
 
-Me interesa comprender cómo funciona un proceso, convertir sus necesidades en reglas claras, probar la solución y mejorarla con base en el uso real.
+I enjoy understanding how a process works, turning business needs into clear system requirements, validating edge cases, and improving a solution through real user feedback. My background in electronics and aircraft maintenance has also taught me to work carefully, troubleshoot methodically, and keep learning until I understand how a system behaves.
 
-## Proyecto principal
+I am currently looking for my first professional opportunity as a Junior Software Developer, Java Junior Developer, QA Analyst, Junior Systems Analyst, or IT Support Specialist.
+
+## Featured project
 
 ### [Sarita POS](https://github.com/C-Sorto/sarita-pos)
 
-Sistema de ventas para un kiosco de helados. Su versión privada se utiliza diariamente y se mantiene separada del [demo público](https://c-sorto.github.io/sarita-pos/).
+Sarita POS is a sales system created for an ice cream kiosk in El Salvador. Its private production version is used every day, while a separate [public demo](https://c-sorto.github.io/sarita-pos/) allows recruiters and visitors to explore the sales workflow without accessing real business data.
 
-Mi aporte incluye levantamiento de necesidades, definición de flujos y reglas de negocio, pruebas manuales, validación con usuarios, seguimiento de errores, documentación y mejora continua.
+My responsibilities include:
 
-## Competencias
+- Translating business needs into system requirements and sales workflows.
+- Defining business rules, validations, and expected system behavior.
+- Testing complete user flows and identifying edge cases.
+- Validating changes with the owner and daily users.
+- Tracking issues and prioritizing continuous improvements.
+- Supporting the system after deployment.
+- Maintaining a clear separation between demo and production environments.
+- Documenting changes and managing versions with Git and GitHub.
 
-- Análisis funcional y documentación de requisitos.
-- Pruebas manuales, validación de flujos y reporte de errores.
-- Soporte técnico y resolución básica de problemas.
-- Git y GitHub.
-- Linux y uso básico de terminal.
-- Fundamentos de redes con Packet Tracer y GNS3.
-- Armado de patch cords y conocimientos de patch panels.
-- Java y Python: fundamentos y programación orientada a objetos en formación.
-- SQL y Power BI: formación académica en curso.
+This project reflects how I approach technology: understand the problem, build a clear solution, test it in realistic conditions, and keep improving it after release.
 
-## Formación
+## Core strengths
 
-- Ingeniería en Sistemas — en curso, graduación estimada en 2029.
-- Técnico en Mantenimiento Aeronáutico — finalizado.
-- Bachillerato en Electrónica — finalizado.
+- Functional analysis and requirements documentation.
+- Manual QA, test scenarios, and defect reporting.
+- Troubleshooting and technical support.
+- Business process understanding.
+- Git and GitHub.
+- Linux command-line fundamentals.
+- Networking fundamentals with Packet Tracer and GNS3.
+- Physical network basics, including patch cords and patch panels.
 
-## Idiomas
+## Technical development
 
-- Español nativo.
-- Inglés: ACTFL Intermediate Mid.
+- Java and Python fundamentals.
+- Object-oriented programming.
+- SQL, database concepts, and data modeling.
+- Power BI fundamentals.
+- Backend development concepts.
 
-## Contacto
+My current technical focus is strengthening Java, object-oriented design, databases, and backend development through small, verifiable projects.
+
+## Education
+
+- Systems Engineering — in progress, expected graduation in 2029.
+- Aircraft Maintenance Technician — completed.
+- High School Diploma in Electronics — completed.
+
+## Languages
+
+- Spanish — Native.
+- English — ACTFL Intermediate Mid.
+
+## Connect with me
 
 [LinkedIn](https://www.linkedin.com/in/christian-sorto-cortez/)
